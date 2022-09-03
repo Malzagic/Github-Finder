@@ -1,7 +1,7 @@
 # GitHubFinder App
 Find profile on [GitHub](https://github.com/) by searching them.
 
-Application is searching profile by using profile login and showing results.
+Application is searching github users by using profile login and showing results.
 
 You can view profile and check what's the latest git hub respositories was created and even more.
 
