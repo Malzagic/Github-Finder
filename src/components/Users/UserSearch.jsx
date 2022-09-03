@@ -8,7 +8,6 @@ function UserSearch() {
   const {users, searchUsers, clearUsers} = useContext(GitHubContext);
   const {setAlert} = useContext(AlertContext);
 
-  console.log(users);
 
   const handleChange = (e) => setText(e.target.value);
 
